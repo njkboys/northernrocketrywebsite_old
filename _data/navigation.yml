@@ -11,18 +11,23 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
     - title: "About"
-      section: timeline
-    - title: "Team"
-      section: team
+    - title: "Schedule"
     - title: "Contact"
-      section: contact
-    - title: "Tester"
-      section: "Services"
+    - title: "Launch Info"
+    
+#    - title: "Services"
+#     section: services
+#    - title: "Portfolio"
+#      section: portfolio
+#    - title: "About"
+#      section: timeline
+#    - title: "Team"
+#      section: team
+#    - title: "Contact"
+#      section: contact
+#    - title: "Tester"
+#      section: "Services"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
