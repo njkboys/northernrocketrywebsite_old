@@ -16,7 +16,7 @@ theme: jekyll-agency
 url    : "https://njkboys.github.io/NRWebsite/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Northern Rocketry
+title      : "Northern Rocketry"
 email      : northernrocketry@gmail.com #this is also the email contact forms will go to
 description: "Northern Rocketry"
 author     : Nathan R
