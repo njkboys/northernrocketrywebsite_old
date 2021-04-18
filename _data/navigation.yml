@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "About"
-      section: legal
+      url: _includes/about.html
     - title: "Launches"
     - title: "Projects"
     - title: "Contact"
