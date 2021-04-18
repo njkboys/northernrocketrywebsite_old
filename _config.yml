@@ -17,12 +17,12 @@ url    : "https://njkboys.github.io/northernrocketrywebsite/" # the base hostnam
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : "Northern Rocketry"
-email      : northernrocketry@gmail.com #this is also the email contact forms will go to
+email      : nathanriethman@yahoo.com #this is also the email contact forms will go to
 description: "Northern Rocketry"
 author     : Nathan R
 logo: Logo.png     #optional, defaults to site title
-path: assets\img\Logo.png
-height: 60 #height in px, defaults to 52px
+  path: assets\img\Logo.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
